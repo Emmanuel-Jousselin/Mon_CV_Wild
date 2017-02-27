@@ -1,0 +1,67 @@
+body
+{
+  background-color: rgb(104, 187, 285);
+}
+ #header
+ {
+   background-color: rgb(150, 233, 245);
+   text-align: center;
+   height: 100px;
+ }
+
+h1
+{
+  padding-top: 25px;
+}
+
+#container
+{
+  background-color: rgb(150, 233, 245);
+}
+
+#left-box
+{
+  float: left;
+  background-color: rgb(9, 30, 45);
+  color: White;
+  width: 260px;
+}
+
+#right-box
+{
+  background-color: (150, 233, 249);
+}
+
+#experiences-box
+{
+  background-color: White;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.experience
+{
+  background-color: rgb(0, 189, 227);
+}
+
+#studies-box
+{
+  text-align: center;
+  background-color: White;
+}
+
+.study
+{
+  background-color: rgb(0, 189, 227);
+}
+
+footer
+{
+  background-color: rgb(150, 233, 245);
+  height: 100px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 25px;
+  width: 100%;
+  display: inline-block;
+}
